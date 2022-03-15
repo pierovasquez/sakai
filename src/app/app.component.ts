@@ -7,6 +7,7 @@ import { PrimeNGConfig } from 'primeng/api';
 export class AppComponent {
 
     menuMode = 'static';
+    prueba = 'wtf';
 
     constructor(private primengConfig: PrimeNGConfig) { }
 
